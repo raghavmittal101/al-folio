@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Limitless Path Generation System Unbounded Locomotion in Virtual Reality
+description: Master's thesis project
 img: /assets/img/12.jpg
 importance: 1
 ---
