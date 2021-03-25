@@ -184,6 +184,23 @@ a, table.table a {
 }
 
 
+// Social (below profile image)
+.social-prof {
+  // text-align: center;
+  .contact-icon {
+    font-size: 2rem;
+    a {
+      color: var(--global-icon-color);
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+  .contact-note {
+    font-size: 0.8rem;
+  }
+}
+
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
