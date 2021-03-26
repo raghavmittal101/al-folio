@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: MS By Research in CSE student at International Institute of Information Technology, Hyderabad. Interested in technical HCI, virtual reality and perception.
+description: MS By Research in CSE student at International Institute of Information Technology, Hyderabad. Interested in HCI, virtual reality and perception.
 
 profile:
   align: right
@@ -16,11 +16,11 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Raghav works in the area of human-computer interaction in VR at the Software Engineering Research Center under <a href="https://faculty.iiit.ac.in/~raghu.reddy/"> Dr. Raghu Reddy's </a> guidance. Currently, he is developing a novel scene generation technique for unbounded locomotion in room-scale VR. 
+I work in the area of human-computer interaction in VR at the Software Engineering Research Center under <a href="https://faculty.iiit.ac.in/~raghu.reddy/"> Dr Raghu Reddy's </a> guidance. Currently, I am developing a novel scene generation technique for unbounded locomotion in room-scale VR. 
 
-His foray into VR started while working as a research assistant at Cognitive Science Lab, IIIT-H. He assisted research students in implementing virtual environments to carry out user studies in spatial cognition. He was working on a project in which they studied the impact of decision making during navigation in a virtual environment on spatial learning. During this time, they planned to implement a study(Chrastil et al., 2013), which they couldn't because of insufficient physical space. He started searching for various techniques to explore virtual environments larger than the physical space. Raghav ideated the concept of dynamically generating paths in a room-scale virtual environment to create a perception of infiniteness to the user. 
+My foray into VR started while working as a research assistant at Cognitive Science Lab, IIIT-H. I assisted research students in implementing virtual environments to carry out user studies in spatial cognition. I was working on a project in which they studied the impact of decision making during navigation in a virtual environment on spatial learning. During this time, they planned to implement a study(Chrastil et al., 2013), which they couldn't because of insufficient physical space. I started searching for various techniques to explore virtual environments larger than the physical space. I ideated the concept of dynamically generating paths in a room-scale virtual environment to create a perception of infiniteness to the user. 
 
-Raghav is a morning person 🌄. His day starts with jogging a mile🏃‍♂️, doing yoga and practising musical notes🎶. He is a trained yogi🧘🏽, classical singer and musician. Singing, playing the guitar, tabla, piano and Indian flute sets him out of the crowd. Do checkout his <a href="https://www.youtube.com/user/raghavmittal101"> YouTube</a> channel and <a href="https://www.instagram.com/raghavvmittalmusic/"> Instagram</a> profile 😊.
+I am a morning person 🌄. My day starts with jogging a mile🏃‍♂️, doing yoga and practising musical notes🎶. Singing, playing the guitar, tabla, piano and Indian flute sets me out of the crowd. Do check out my <a href="https://www.youtube.com/user/raghavmittal101"> YouTube</a> channel and <a href="https://www.instagram.com/raghavvmittalmusic/"> Instagram</a> profile 😊.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
