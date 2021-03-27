@@ -13,5 +13,5 @@ nav: true
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
-
+ <iframe width="480" height="270" src="https://www.youtube.com/embed/vZMkQBOknoU?autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
 </div>
